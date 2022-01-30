@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planets_array">
+        <item>islamabad</item>
+        <item>lahore</item>
+        <item>sargodha</item>
+        <item>mianwali</item>
+        <item>multan</item>
+        <item>jhrbad</item>
+        <item>murree</item>
+        <item>kalarkhar</item>
+    </string-array>
+</resources>
